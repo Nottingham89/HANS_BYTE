@@ -12,7 +12,7 @@ module.exports = {
   // Session and Owner Information
   SESSION_ID: process.env.SESSION_ID || "", // Add your session ID here
   SUDO: process.env.SUDO || "237696900612", // Add your admin/sudo number here
-  OWNER_NUM: process.env.OWNER_NUM || "237680260772", // Add the owner's number here
+  OWNER_NUM: process.env.OWNER_NUM || "77178171", // Add the owner's number here
   OWNER_NAME: process.env.OWNER_NAME || "HANS TECH", // Add the owner's name here
   OWNER_EMAIL: process.env.OWNER_EMAIL || "your@email.com", // Add your email address here
   OWNER_LOCATION: process.env.OWNER_LOCATION || "Africa/Douala", // Add your location here
